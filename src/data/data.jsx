@@ -223,20 +223,4 @@ export const products = [
     description: "Platinum earrings with a bold look",
     launchDate: "14 Feb, 2021",
   },
-  {
-    id: "VLZ-480",
-    sku: "VLZ1400087430",
-    name: "Ella Robinson",
-    category: "Silver",
-    description: "Charming silver pendant with a floral pattern",
-    launchDate: "21 Jan, 2022",
-  },
-  {
-    id: "VLZ-454",
-    sku: "VLZ1400087404",
-    name: "Sophia Miller",
-    category: "Platinum",
-    description: "Luxurious platinum ring with a timeless design",
-    launchDate: "21 Nov, 2024",
-  },
 ];
